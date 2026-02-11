@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Colors of the Heart",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-11T12:21:38.895153Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Colors of the Heart",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/01_Colors_of_the_Heart_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Colors of the Heart",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/02_Colors_of_the_Heart_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Colors of the Heart",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/03_Colors_of_the_Heart_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Colors of the Heart (Blood+)",
+      "artist": "Omar Cabán -YuriFoX-",
+      "has_synced": false,
+      "path": "select/04_Colors_of_the_Heart_(Blood+)_Omar_Cabán_-YuriFoX-.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Colors of the Heart [Live]",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/05_Colors_of_the_Heart_[Live]_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Colors of the Heart",
+      "artist": "Blood+ - UVERworld",
+      "has_synced": true,
+      "path": "select/06_Colors_of_the_Heart_Blood+_-_UVERworld.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Colors of the Heart (\"Blood+\")",
+      "artist": "Studio Yuraki",
+      "has_synced": false,
+      "path": "select/07_Colors_of_the_Heart_(_Blood+_)_Studio_Yuraki.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Colors of the Heart (Live at Marine Messe Fukuoka)",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/08_Colors_of_the_Heart_(Live_at_Marine_Messe_Fukuoka)_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Colors of the Heart (Live at Marine Messe Fukuoka 2015.12.30)",
+      "artist": "UVERworld",
+      "has_synced": true,
+      "path": "select/09_Colors_of_the_Heart_(Live_at_Marine_Messe_Fukuoka_2015.12.30)_UVERworld.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Colors Of The Heart",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_Colors_Of_The_Heart_UVERworld.txt"
+    }
+  ]
+}
